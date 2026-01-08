@@ -1,0 +1,14 @@
+{
+  "run_id": "9c22612c-5594-47fe-8e07-6c027b287a1e",
+  "project": {
+    "id": 29,
+    "key": "sample-summit",
+    "name": "Summit QA",
+    "description": "Quality gates and release readiness."
+  },
+  "task": null,
+  "intent": "Create nginx file with servername sandip.local",
+  "prompt": null,
+  "prompt_response": null,
+  "chat_history": []
+}
